@@ -11,7 +11,7 @@
  ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/line.png)
 
  - **StatscsView**
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png)
+ ![alt tag](https://raw.githubusercontent.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png)
  - **PanelPieChart**
  ![alt tag](https://raw.github.com/PhilJay/MPchartLibrary/master/screenshots/Q[XS_)ZBOSGKD6H525LQO[7.png)
 
