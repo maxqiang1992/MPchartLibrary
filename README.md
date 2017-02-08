@@ -2,7 +2,7 @@
 
 
  - **LineChart (with legend, simple design)**
-![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/simpledesign_linechart4.png)
+![alt tag](https://raw.github.com/maxqiang1992//MPchartLibrary/master/screenshots/fill_line.png)
 
  - **LineChart (with legend, simple design)**
  ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/fill_line.png)
