@@ -1,6 +1,7 @@
 # MPchartLibrary
+ - **LineChart (with legend, simple design)**
+ ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/simpledesign_linechart4.png)
 
-.
  - **StatscsView**
   ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png)
  - **PanelPieChart**
