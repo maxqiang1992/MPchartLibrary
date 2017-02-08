@@ -1,4 +1,9 @@
 # MPchartLibrary
+
+
+ - **LineChart (with legend, simple design)**
+![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/simpledesign_linechart4.png)
+
  - **LineChart (with legend, simple design)**
  ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/fill_line.png)
 
