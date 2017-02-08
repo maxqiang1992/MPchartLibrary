@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+<chart.FillLineGraphicView
+    android:id="@+id/fill_line"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"/>
+    </HorizontalScrollView>
+    <Button
+        android:text="刷新数据"
+        android:id="@+id/up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
