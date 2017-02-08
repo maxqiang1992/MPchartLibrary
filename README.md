@@ -1,5 +1,8 @@
 # MPchartLibrary
  - **LineChart (with legend, simple design)**
+ ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/fill_line.png)
+
+ - **LineChart (with legend, simple design)**
  ![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/line.png)
 
  - **StatscsView**
