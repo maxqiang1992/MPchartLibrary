@@ -1,23 +1,20 @@
 # MPchartLibrary
  - **LineChart **
- 
+
  ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/line.png)
  
- ![ image ](https://raw.githubusercontent.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png) 
- - **StatscsView**
- ![alt tag](https://raw.githubusercontent.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png)
- - **PanelPieChart**
- ![alt tag](https://raw.github.com/PhilJay/MPchartLibrary/master/screenshots/Q[XS_)ZBOSGKD6H525LQO[7.png)
 
- - **LineChart **
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/5VJ(Y2OT(A1AT[{LBE{5{QG.png)
+ - **StatscsView**
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/statscs.png)
+ - **PanelPieChart**
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/panlel.png)
 
  - **LineGraphicView**
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/(V3`JCA~P0SU(_53PER({ZN.png)
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/line_graphic.png)
 
  - **FillLineGraphicView**
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/L7HW)M@{DLSXGCTHHBTV07L.png)
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/fill_line.png)
 
  - **NetChart**
 
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/X521ECOZ{WNVYF@{P(EN~07.png)
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/net.png)
