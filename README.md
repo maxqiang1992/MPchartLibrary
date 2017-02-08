@@ -10,7 +10,7 @@
  
  - **PanelPieChart**
  
- ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/panlel.png)
+ ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/panel.png)
 
  - **LineGraphicView**
  
