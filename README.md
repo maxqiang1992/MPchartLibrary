@@ -1,6 +1,6 @@
 # MPchartLibrary
-![alt tag](https://raw.github.com/PhilJay/MPChart/master/screenshots/combined_chart.png)
- - **LineChart (with legend, simple design)**
+ - **LineChart **
+ 
  ![alt tag](https://raw.github.com/maxqiang1992/MPchartLibrary/master/screenshots/line.png)
  
  ![ image ](https://raw.githubusercontent.com/maxqiang1992/MPchartLibrary/master/screenshots/(RK(4GD@WC8YS6FIKP3R9)A.png) 
